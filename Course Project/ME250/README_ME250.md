@@ -1,6 +1,6 @@
 # MECHENG 250 – Design and Manufacturing I
 
-This folder contains selected work from **MECHENG 250: Design and Manufacturing I** at the University of Michigan.
+This folder contains selected work from **MECHENG 250: Design and Manufacturing I** at the Shanghai Jiao Tong University.
 
 MECHENG 250 is a 4-credit course that introduces the basics of mechanical design and manufacturing. The course covers:
 - Visual thinking, engineering drawing, and machine anatomy,
