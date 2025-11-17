@@ -5,7 +5,7 @@ Only selected, non-confidential materials are included here. Several projects ar
 
 ---
 
-## 1. Design and Control of Variable-Friction Stick–Slip Positioners – University of Texas at Austin
+## 1. Design and Control of Variable-Friction Stick–Slip Positioners
 
 This project focuses on a **piezoelectric stick–slip nano-positioner** with variable friction to enhance AFM platform load capacity.
 
@@ -16,7 +16,7 @@ Wenyue Li developed the mechanical structure in SOLIDWORKS, validated stiffness 
 
 ---
 
-## 2. Self-Manageable System Architecture Design – University of Calgary
+## 2. Self-Manageable System Architecture Design
 
 This line of work proposes a **self-manageable system architecture** that combines IEC 61499 function blocks, a multi-agent system, and ARIMA-based prediction for dynamic routing in cyber-physical systems.
 
@@ -27,7 +27,7 @@ Wenyue Li designed and implemented a NetLogo simulation platform, integrated Pyt
 
 ---
 
-## 3. Review of AI Applications in Aerospace – Carnegie Mellon University Remote Seminar
+## 3. Review of AI Applications in Aerospace
 
 In this independent research project, Wenyue Li conducted a structured **literature review on AI applications in aerospace engineering**.
 
